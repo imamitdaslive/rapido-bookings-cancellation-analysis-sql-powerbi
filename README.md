@@ -1,6 +1,6 @@
 # 🧾 Rapido Booking Cancelation Analysis – Supply/Demand Forecasting
 
-_Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Power BI._
+_Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Excel, and Power BI._
 
 ---
 
